@@ -5,9 +5,11 @@ VisualStudioVersion = 17.0.31912.275
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AoC.Day1.Puzzle1", "AoC.Day1.Assignment1\AoC.Day1.Puzzle1.csproj", "{028F13A4-C0A5-43AD-9D66-D3238AECF8A1}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AoC.Day1.Puzzle2", "AoC.Day1.Puzzle2\AoC.Day1.Puzzle2.csproj", "{B0538998-8675-4BD5-A149-79CF2B0E20EA}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AoC.Day1.Puzzle2", "AoC.Day1.Puzzle2\AoC.Day1.Puzzle2.csproj", "{B0538998-8675-4BD5-A149-79CF2B0E20EA}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AoC.Shared", "AoC.Shared\AoC.Shared.csproj", "{79B3CCAD-A8CA-4C9D-A4EB-B038043CA9E0}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AoC.Shared", "AoC.Shared\AoC.Shared.csproj", "{79B3CCAD-A8CA-4C9D-A4EB-B038043CA9E0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AoC.Day2.Puzzle1", "AoC.Day2.Puzzle1\AoC.Day2.Puzzle1.csproj", "{B7FFEE26-2B80-42A8-BEEE-36BCF176C07B}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -27,6 +29,10 @@ Global
 		{79B3CCAD-A8CA-4C9D-A4EB-B038043CA9E0}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{79B3CCAD-A8CA-4C9D-A4EB-B038043CA9E0}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{79B3CCAD-A8CA-4C9D-A4EB-B038043CA9E0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B7FFEE26-2B80-42A8-BEEE-36BCF176C07B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B7FFEE26-2B80-42A8-BEEE-36BCF176C07B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B7FFEE26-2B80-42A8-BEEE-36BCF176C07B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B7FFEE26-2B80-42A8-BEEE-36BCF176C07B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
